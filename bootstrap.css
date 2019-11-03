@@ -59,8 +59,8 @@ body {
   font-weight: 400;
   line-height: 1.5;
   color: #212529;
-  text-align: left;
-  background-color: #fff;
+  text-align: center;
+  background-color: #343a40;
 }
 
 [tabindex="-1"]:focus {
@@ -81,6 +81,7 @@ h1, h2, h3, h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
+  color: #FEF6E4;
 }
 
 abbr[title],
@@ -364,6 +365,7 @@ h1, h2, h3, h4, h5, h6,
   margin-bottom: 0.5rem;
   font-weight: 500;
   line-height: 1.2;
+  color: #FEF6E4;
 }
 
 h1, .h1 {
