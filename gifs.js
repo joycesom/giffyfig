@@ -23,3 +23,8 @@ function cat(){
     let meow = {'l':10,'r':'cat'};
     random(2,meow);
 }
+
+function dog(){
+    let woof = {'l':10,'r':'dog'};
+    random(2,woof);
+}
